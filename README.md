@@ -3,7 +3,9 @@
 English bellow  
   
 Эта сборка позволит вам запускать GoldHen 2.1 на вашей PS4 в один клик.  
-  
+ 
+[Гайд как сделать работающий ESP8266 с автомонтированием usb на русском](https://github.com/tchibo-4ipolino/PS4-Server-900u/tree/tchibo-4ipolino-patch-1)
+ 
 ### Установка
 1. Прошейте ваш ESP8266 файлом firmware.bin, например, с помощью Nodemcu Pyflasher.
 2. Подключитесь к WI-FI SSID: PS4_WEB_AP PASSWORD: password
@@ -21,12 +23,12 @@ English bellow
 3. Прошейте ESP8266 вашей прошивкой, с помощью Arduino IDE.
 4. Следуйте предыдущей инструкции начиная с пункта 2.
 
-[Гайд как сделать работающий ESP8266 с автомонтированием usb на русском](https://github.com/tchibo-4ipolino/PS4-Server-900u/tree/tchibo-4ipolino-patch-1)
-
 ## English
 
 This build will allow you to run GoldHen 2.1 on your PS4 with one click.
   
+[Guide how to make a working ESP8266 with usb mount](https://github.com/stooged/PS4-Server-900u)
+
 ### Installation
 1. Flash your ESP8266 with the firmware.bin, for example using Nodemcu Pyflasher.
 2. Connect to WIFI SSID: PS4_WEB_AP PASSWORD: password
@@ -43,7 +45,5 @@ This build will allow you to run GoldHen 2.1 on your PS4 with one click.
 2. Edit the firmware the way you like.
 3. Flash the ESP8266 with your firmware using the Arduino IDE.
 4. Follow the previous instruction starting from step 2.
-
-[Guide how to make a working ESP8266 with usb mount](https://github.com/stooged/PS4-Server-900u)
 
 Большое спасибо, [Stooged](https://github.com/stooged) | Big thanks to [Stooged](https://github.com/stooged)
