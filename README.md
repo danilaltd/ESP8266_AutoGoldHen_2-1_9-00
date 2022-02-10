@@ -44,6 +44,6 @@ This build will allow you to run GoldHen 2.1 on your PS4 with one click.
 3. Flash the ESP8266 with your firmware using the Arduino IDE.
 4. Follow the previous instruction starting from step 2.
 
-[Guide how to make a working ESP8266 with usb mount](https://github.com/stooged/PS4-Server-900)
+[Guide how to make a working ESP8266 with usb mount](https://github.com/stooged/PS4-Server-900u)
 
 Большое спасибо, [Stooged](https://github.com/stooged) | Big thanks to [Stooged](https://github.com/stooged)
